@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node17" appversion="6.1.11">
+  <panorama id="node17">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-13.54" tilt="-56.38" fov="70"/>
+      <flyin projection="9" pan="-11.43" tilt="-30.18" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="-27.205122" source="" nodeid="node17" copyright="" tags="Edited" longitude="153.109906" description="" customnodeid="" heading="0" info="" altitude="98.00" title="Aerial" datetime="11/05/2021 10:38 AM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-21.65" description="" url="{node3}" tilt="-77.6" id="Point01" skinid="Hotspot 1" title="Entrance"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="28.32" tilt="-4.18" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node3" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Entrance" datetime="11/11/2017 6:44 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-315.69" description="" url="{node14}" tilt="-9.77" id="Point01" skinid="Hotspot 1" title="Courtyard"/>
+      <hotspot target="" pan="-313.49" description="" url="images/ATC 1.jpg" tilt="0.09" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-348.17" description="" url="https://tradecollege.com.au/study-at-atcnb/principals-welcome/ " tilt="-8.73" id="Point03" skinid="ht_url" title="Principal’s Welcome"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2000" levelingpitch="0" levelingroll="-1" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-66.44" tilt="-1.71" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node14" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Courtyard" datetime="11/11/2017 8:58 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-87.43" description="" url="{node1}" tilt="-13.58" id="Point01" skinid="Hotspot 1" title="Reception"/>
+      <hotspot target="" pan="-72.41" description="" url="images/ATC 2.jpg" tilt="2.78" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-260.64" description="" url="images/ATC 3.jpg" tilt="-4.24" id="Point02" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="2000" levelingpitch="1" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="104.43" tilt="-7.56" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node1" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Reception" datetime="11/11/2017 6:38 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-156.04" description="" url="{node2}" tilt="-4.63" id="Point01" skinid="Hotspot 1" title="Electrotechnology"/>
+      <hotspot target="_blank" pan="-231.36" description="" url="https://tradecollege.com.au/study-at-atcnb/ " tilt="-16.47" id="Point02" skinid="ht_url" title="Study at ATCNB"/>
+      <hotspot target="_blank" pan="-239.78" description="" url="https://tradecollege.com.au/school-resources/student-support/ " tilt="-17.1" id="Point03" skinid="ht_url" title="Student Support"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2000" levelingpitch="0" levelingroll="1" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="24.17" tilt="-10.86" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node2" copyright="" tags="Edited" longitude="" description="The Certificate II in Electrotechnology is ideal for Year 11 and 12 students wanting to gain an insight into the electrical industry. This course will suit students who enjoy problem-solving, working with technology and who want a career in the Electrotechnology industry.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program." customnodeid="" heading="0" info="" title="Electrotechnology" datetime="11/11/2017 7:02 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-352.32" description="" url="{node13}" tilt="-6.87" id="Point01" skinid="Hotspot 1" title="Plumbing"/>
+      <hotspot target="" pan="-284.67" description="" url="images/ATP-7380 - electrical student and tool bag.JPG" tilt="-3.13" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-26.74" description="" url="images/ATP-7382 - student and trainer overhead.JPG" tilt="-4.12" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-157.53" description="" url="images/ATP-7368 - female electro student with trainer.JPG" tilt="-5.46" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-334.77" description="" url="https://tradecollege.com.au/course/certificate-ii-in-electrotechnology-career-start/" tilt="-18.94" id="Point05" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2000" levelingpitch="-1" levelingroll="1" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-40.18" tilt="-6.39" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node13" copyright="" tags="Edited" longitude="" description="Plumbing is one of the top three occupations in the construction industry with both general and specialised plumbers in demand. Plumbers with different specialisations are areas of particularly high demand.&#xa;Year 11 and Year 12 students will develop the practical skills and knowledge to use hand and power tools, carry out welding, read and interpret plans, and calculate quantities and other measurements. &#xa;Students will learn about working safely and effectively in the workplace and how to adhere to the industry’s regulations and standards.&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Plumbing" datetime="11/11/2017 7:20 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-215.4" description="" url="{node21}" tilt="-0.93" id="Point01" skinid="Hotspot 1" title="Cabinet Making"/>
+      <hotspot target="_blank" pan="-58.91" description="" url="https://tradecollege.com.au/course/certificate-ii-in-plumbing/" tilt="-11.37" id="Point02" skinid="ht_url" title="Courses"/>
+      <hotspot target="" pan="-87.58" description="" url="images/ATP-7141 - trade student compelting theory at desk with trainer.JPG" tilt="-7.52" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-305.87" description="" url="images/ATP-7131 - student working on waste water pipe.JPG" tilt="-5.67" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-31.37" description="" url="images/ATP-7460 - plumbing students digging trench with trainer.JPG" tilt="-5.65" id="Point05" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-357.24" description="" url="images/ATP-7138 - plumbing student welding.JPG" tilt="-13.93" id="Point06" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="2000" levelingpitch="-1" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="31.73" tilt="-6.52" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node21" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Cabinet Making" datetime="11/11/2017 7:32 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-311.83" description="" url="{node23}" tilt="-2.77" id="Point01" skinid="Hotspot 1" title="Workshop"/>
+      <hotspot target="" pan="-297.96" description="" url="images/ATP-7097 - Group of Students in high Vis.JPG" tilt="-8.99" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-342.93" description="" url="https://tradecollege.com.au/course/certificate-i-in-construction/" tilt="-4.3" id="Point03" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input width="2000" levelingpitch="-1" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-72.79" tilt="-4.82" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node23" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Workshop" datetime="11/11/2017 7:38 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-326.29" description="" url="{node5}" tilt="-7.21" id="Point01" skinid="Hotspot 1" title="Construction Yard"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-47.12" tilt="-4.15" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node5" copyright="" tags="Edited" longitude="" description="Certificate I in Construction provides students with an introduction to the construction industry. This course is perfect for students to learn how to use basic construction tools and materials, all the essential Work Health and Safety (WHS) requirements and how to apply them to your job on a day-to-day basis, how to effectively communicate and understand the culture, occupations, job roles and employer expectations in the construction world.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Construction Yard" datetime="11/11/2017 7:48 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-338.65" description="" url="{node19}" tilt="-7.3" id="Point01" skinid="Hotspot 1" title="Automotive"/>
+      <hotspot target="_blank" pan="-71.36" description="" url="https://tradecollege.com.au/course/certificate-i-in-construction/" tilt="-13.3" id="Point02" skinid="ht_url" title="Courses"/>
+      <hotspot target="" pan="-98.88" description="" url="images/ATP-7059 - student using sander.JPG" tilt="-7.66" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-129.28" description="" url="images/ATP-7086 - female construction student foot on step ladder and hammer.JPG" tilt="-17.32" id="Point04" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="60.99" tilt="-0.44" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node19" copyright="" tags="Edited" longitude="" description="The automotive industry offers the opportunity to get involved in a broad-based skills area driven by new technologies. Automotive employment opportunities are emerging in diagnostic, servicing, repair and maintenance roles across Australia.&#xa;&#xa;The Certificate II Automotive will set a Year 11 and Year 12 student on the path to finding a school-based apprenticeship in a wide range of automotive occupations including as a light or heavy vehicle mechanic, an automotive electrician, a diesel fitter or an outdoor power equipment technician. You may also like to seek employment as a vehicle service assistant or as an automotive parts interpreter.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Automotive" datetime="11/11/2017 7:55 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-310.63" description="" url="{node16}" tilt="-3.17" id="Point01" skinid="Hotspot 1" title="Engineering - Welding Bays"/>
+      <hotspot target="" pan="-279.16" description="" url="images/ATP-7227 - 2 students working under car.JPG" tilt="4.54" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-259.93" description="" url="images/ATP-7235 - student at tool drawes.JPG" tilt="-3.77" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-339.87" description="" url="images/ATP-7262 - automotive trainer and two students.JPG" tilt="-10.05" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-243.6" description="" url="images/ATP-723 - student filling tyre 7.JPG" tilt="-4.08" id="Point05" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-23.78" tilt="-6.8" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node16" copyright="" tags="Edited" longitude="" description="The certificate II Engineering  is ideal for Year 11 and 12 students interested in exposure to an engineering or related working environment with a view to entering into employment in that area. This course will set you on the path to pursue an apprenticeship in a wide range of engineering jobs including fitting and turning, sheet metal fabrication, boiler making, welding, casting and moulding, and diesel, mechanical or electrical fitting.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Engineering - Welding Bays" datetime="11/11/2017 8:02 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-344.85" description="" url="{node8}" tilt="-7.32" id="Point01" skinid="Hotspot 1" title="Engineering"/>
+      <hotspot target="" pan="-324" description="" url="images/ATP-7189 - metal engineering weilding.JPG" tilt="-4.7" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-106.61" description="" url="images/ATP-7169 - metal engineering student grinding metal pipe with sparks 6.JPG" tilt="-9.12" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-11.83" description="" url="https://tradecollege.com.au/course/certificate-ii-in-engineering-pathways/" tilt="-5.74" id="Point04" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-64.14" tilt="-7.63" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node8" copyright="" tags="Edited" longitude="" description="The certificate II Engineering  is ideal for Year 11 and 12 students interested in exposure to an engineering or related working environment with a view to entering into employment in that area. This course will set you on the path to pursue an apprenticeship in a wide range of engineering jobs including fitting and turning, sheet metal fabrication, boiler making, welding, casting and moulding, and diesel, mechanical or electrical fitting.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Engineering" datetime="11/11/2017 8:05 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-309.62" description="" url="{node25}" tilt="-2.95" id="Point01" skinid="Hotspot 1" title="Classroom"/>
+      <hotspot target="" pan="-292.49" description="" url="images/ATP-7158 - metal engineering student at drill press 3.JPG" tilt="-1.44" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-335.49" description="" url="images/ATP-7154 - metal engineering student at lathe 4.JPG" tilt="-8.54" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-3.76" description="" url="images/ATP-7148 - female metal engineering student at lathe 2.JPG" tilt="-9.45" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-274.81" description="" url="https://tradecollege.com.au/course/mem20413-certificate-ii-in-engineering-pathways/" tilt="-23.61" id="Point05" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="10.37" tilt="-2.93" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node25" copyright="" tags="Edited" longitude="" description="At the Trade College, our essential learning program allows you to earn a Queensland Certificate of Education (QCE) outcome at the end of Year 12 by studying Queensland Curriculum and Assessment Authority (QCAA) registered subjects.&#xa;The College curriculum is centred on the components of the Queensland senior curriculum that are most relevant to young apprentices and trainees such as Essential English, Essential Mathematics, Business Studies and Industry Preparation." customnodeid="" heading="0" info="" title="Classroom" datetime="11/11/2017 8:13 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-135.77" description="" url="{node9}" tilt="-8.28" id="Point01" skinid="Hotspot 1" title="Hair &amp; Beauty"/>
+      <hotspot target="_blank" pan="-31.76" description="" url="https://tradecollege.com.au/courses/essential-learning/" tilt="-15.68" id="Point02" skinid="ht_url" title="Courses"/>
+      <hotspot target="" pan="-354.36" description="" url="images/ATP-7052 - Student smiling.JPG" tilt="-12.72" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-11.51" description="" url="images/ATP-7027 - Male Students Learning.JPG" tilt="-14.18" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-52.3" description="" url="images/ATP-7034 - female student smiling in classroom with textbook.JPG" tilt="-16.4" id="Point05" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-75.85" description="" url="images/ATP-7040 - teacher working with a group of students in classroom.JPG" tilt="-16.16" id="Point06" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="15.13" tilt="-7.82" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node9" copyright="" tags="Edited" longitude="" description="BEAUTY &#xa;&#xa;Nail the Connection as a hairdressing assistant with this pre-apprenticeship qualification. This course is designed to teach students routine tasks and procedures as well as team and group work that shows employers you are dedicated to building a career in hairdressing. This course compliments the skills and knowledge acquired in the Retail Cosmetics skill set.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Hair &amp; Beauty" datetime="11/11/2017 8:18 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-96.08" description="" url="{node10}" tilt="-8.28" id="Point01" skinid="Hotspot 1" title="Hair &amp; Beauty"/>
+      <hotspot target="" pan="-10.24" description="" url="images/ATP-7287 - Hair and Beauty - many students beauty treatments 2.JPG" tilt="-14.96" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-15.01" description="" url="images/ATP-7283 - Hair and Beauty - 2 students brows 2.JPG" tilt="-24.09" id="Point04" skinid="ht_image" title=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-11.6" tilt="-14.67" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node10" copyright="" tags="Edited" longitude="" description="BARBERING &#xa;&#xa;Why be the created, when you can be the creator! Nail the Connection and join the growing number of people becoming Barbers. Be part of the scenesters and profit from a thriving industry. Cut through the excuses, comb over to the Trade College and shave your way into a new career. Real life barber and hairdressing experience and on the job training in our onsite Scarborough Salon with dedicated Barbershop space. &#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Hair &amp; Beauty" datetime="11/11/2017 8:24 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-82.54" description="" url="{node26}" tilt="-5.33" id="Point01" skinid="Hotspot 1" title="Commercial Kitchen"/>
+      <hotspot target="" pan="-10.74" description="" url="images/ATP-7353 - Hair dressing student with hair colour chart 4.JPG" tilt="-12.29" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-234.89" description="" url="images/ATP-7340 - Hair dressing with clients at basin 4.JPG" tilt="-24.88" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-66.77" description="" url="images/ATP-7323 - Hair dressing student client and trainer 3.JPG" tilt="-14.87" id="Point04" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-352.08" description="" url="https://tradecollege.com.au/course/shb20116-certificate-ii-in-retail-cosmetics-beautyshb20216-certificate-ii-in-salon-assistant-hairdressing/" tilt="4.79" id="Point05" skinid="ht_url" title="Courses"/>
+      <hotspot target="_blank" pan="-16.86" description="" url="https://tradecollege.com.au/course/shb20216-certificate-ii-in-salon-assistant-barbering/" tilt="4.6" id="Point06" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-87.77" tilt="-11.5" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node26" copyright="" tags="Edited" longitude="" description="Bring your food dream alive with this industry standard kitchen operations course. This foundation qualification teaches food preparation and cookery skills, paving a path to work in kitchen operations or get a jumpstart on your Certificate III in Commercial Cookery and chef career.&#xa;&#xa;All Trade College students undertake a minimum of 75 days of workplace learning as part of our flagship Industry Work Experience Program. " customnodeid="" heading="0" info="" title="Commercial Kitchen" datetime="11/11/2017 8:28 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-150.32" description="" url="{node24}" tilt="-2.95" id="Point01" skinid="Hotspot 1" title="Cafe &amp; Deck"/>
+      <hotspot target="" pan="-357.52" description="" url="images/ATP-8055 - Commercial Cookery Student - Mortar and Pestle.JPG" tilt="-2.65" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="" pan="-29.07" description="" url="images/ATP-8057 - Female Commercial Cookery Student.JPG" tilt="-5.22" id="Point03" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-94.34" description="" url="https://tradecollege.com.au/course/sit20416-certificate-ii-in-kitchen-operations/" tilt="-10.48" id="Point04" skinid="ht_url" title="Courses"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="11.57" tilt="-1.73" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node24" copyright="" tags="Edited" longitude="" description="" customnodeid="" heading="0" info="" title="Cafe &amp; Deck" datetime="11/11/2017 8:36 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-180.76" description="" url="{node11}" tilt="-9.17" id="Point01" skinid="Hotspot 1" title="College Hall"/>
+      <hotspot target="" pan="-297.03" description="" url="images/ATP-7012 - students on cafe deck.JPG" tilt="-11.71" id="Point02" skinid="ht_image" title=""/>
+      <hotspot target="_blank" pan="-344.43" description="" url="https://tradecollege.com.au/about/" tilt="2.72" id="Point03" skinid="ht_url" title="About"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="2000" levelingpitch="0" levelingroll="0" height="2000" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="37.57" tilt="-14.77" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata author="" latitude="" source="" nodeid="node11" copyright="" tags="Edited" longitude="" description="Students gather in the College Hall every Wednesday to celebrate their achievements and recognise students who recently secured school-based apprenticeships.&#xa;&#xa;The College Hall also doubles as an indoor sports centre where students engage in a variety of recreational activities.&#xa;&#xa;The College Hall is then transformed  in November each year for the annual Awards and Year 12 Graduation Ceremony where a number of academic and industry Special Awards are presented. " customnodeid="" heading="0" info="" title="College Hall" datetime="11/11/2017 8:42 PM" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textcolor="0x000000" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" height="20" enabled="1" background="1" borderalpha="1" textalpha="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-328.65" description="" url="{node17}" tilt="-2.3" id="Point01" skinid="Hotspot 1" title="Aerial"/>
+      <hotspot target="_blank" pan="-182.68" description="" url="https://tradecollege.com.au/about/special-awards/" tilt="-6.23" id="Point02" skinid="ht_url" title="Special Awards"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="2" blendcolor="0x000000" blendtime="1" enabled="1" softedge="0" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" zoomafterinfov="90" zoomoutpause="0" type="crossdissolve"/>
+    <autorotate noderandom="1" useanimation="0" nodefilter="" returntohorizon="0.100" enabled="1" startloaded="0" speed="0.030" nodedelay="0.00" delay="5.00"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" rubberband="0" sensitivity="8" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" lockedwheel="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" latitude="" source="" nodeid="master" copyright="" tags="" longitude="" description="" customnodeid="" heading="0" info="" title="" datetime="" comment=""/>
+  </masternode>
+</tour>
