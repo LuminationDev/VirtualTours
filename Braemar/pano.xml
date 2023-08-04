@@ -1,805 +1,805 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node11" appversion="6.1.14" apprev="18105">
+<tour apprev="18116" appversion="6.1.15" start="node11">
   <panorama id="node11">
-    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-17.9" tilt="0.65" projection="4" fov="75"/>
-      <flyin pan="-17.19" tilt="-40.32" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-17.9" projection="4" tilt="0.65" fov="75"/>
+      <flyin pan="-17.19" projection="9" tilt="-40.32" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node11" title="College Introduction" description="" tags="Edited|Welcome" author="" heading="0" datetime="28/10/2017 10:51 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 10:51 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="College Introduction" description="" tags="Edited|Welcome" longitude="" source="" comment="" nodeid="node11" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Woodend" description="" pan="-95.21" tilt="1.49" id="Point01" url="{node8}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-95.21" id="Point01" tilt="1.49" title="Woodend" description="" target="" skinid="Hotspot 1" url="{node8}"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node8">
-    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="18.57" tilt="-38.06" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="18.57" projection="4" tilt="-38.06" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node8" title="Woodend" description="Linking our two campuses are a network of buses. The buses transport students to and from the College and between the campuses for some specific activities. Each bus has Middle School and Senior School bus captains. These are important leadership roles, as these student leaders form an important link between the travellers and the bus driver." tags="Edited" author="" altitude="707.00" heading="0" datetime="27/04/2021 3:19 PM" copyright="" info="" longitude="144.564179" latitude="-37.347652" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/04/2021 3:19 PM" copyright="" info="" customnodeid="" heading="0" latitude="-37.347652" altitude="707.00" title="Woodend" description="Linking our two campuses are a network of buses. The buses transport students to and from the College and between the campuses for some specific activities. Each bus has Middle School and Senior School bus captains. These are important leadership roles, as these student leaders form an important link between the travellers and the bus driver." tags="Edited" longitude="144.564179" source="" comment="" nodeid="node8" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Woodend Campus" description="" pan="-337.37" tilt="-33.19" id="Point01" url="{node10}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-337.37" id="Point01" tilt="-33.19" title="Woodend Campus" description="" target="" skinid="Hotspot 1" url="{node10}"/>
     </hotspots>
     <media>
-      <video clickmode="0" stretch="1.000" level="1.000" roty="0.000" tiltsize="10.000" ambientlevel="0.000" fov="62.900" pansize="10.000" startmutedmobile="1" field="90.000" poster="media/Woodend-Aerial-02_Preview.jpg" rotz="0.000" width="1080" id="Element01" pan="9.100" tilt="-47.170" handcursor="0" mode="1" nodechangekeep="0" rotx="0.000" loop="0" height="716">
+      <video tiltsize="10.000" startmutedmobile="1" pan="9.100" ambientlevel="0.000" level="1.000" loop="0" rotz="0.000" id="Element01" stretch="1.000" fov="62.900" poster="media/Woodend-Aerial-02_Preview.jpg" roty="0.000" pansize="10.000" height="716" rotx="0.000" width="1080" field="90.000" mode="1" nodechangekeep="0" tilt="-47.170" handcursor="0" clickmode="0">
         <source url="media/Woodend-Buses-small.mp4"/>
       </video>
-      <sound nodechangekeep="0" loop="1" pan="-341.180" tilt="-38.220" id="Element02" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-341.180" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element02" pansize="10.000" tilt="-38.220" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Woodend Aerial - 18621, 1.43 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01">
-      <clip nodeid="" length="2400" animtype="0" transitiontype="0" nextcliptitle="Braemar House" cliptitle="Woodend Aerial" animtitle="Animation01" nextclipnodeid="node30" nextclipstartview="89/3/75/4">
-        <keyframe type="0" valuestring="" property="0" additionaltrackid="" transitiontime="0" time="0" value="18.57"/>
-        <keyframe type="0" valuestring="" property="1" additionaltrackid="" transitiontime="0" time="0" value="-38.06"/>
-        <keyframe type="0" valuestring="" property="2" additionaltrackid="" transitiontime="0" time="0" value="75"/>
-        <keyframe type="0" valuestring="" property="3" additionaltrackid="" transitiontime="0" time="0" value="4"/>
-        <keyframe type="2" bezierouttime="929.3" valuestring="" property="0" additionaltrackid="" transitiontime="0" bezieroutvalue="18.57" bezierinvalue="18.57" time="299" value="18.57" bezierintime="209.3"/>
-        <keyframe type="2" bezierouttime="929.3" valuestring="" property="1" additionaltrackid="" transitiontime="0" bezieroutvalue="-38.06" bezierinvalue="-38.06" time="299" value="-38.06" bezierintime="209.3"/>
-        <keyframe type="2" bezierouttime="929.3" valuestring="" property="2" additionaltrackid="" transitiontime="0" bezieroutvalue="75" bezierinvalue="75" time="299" value="75" bezierintime="209.3"/>
-        <keyframe type="1" bezierouttime="0" valuestring="" property="0" additionaltrackid="" transitiontime="0" bezieroutvalue="0" bezierinvalue="18.57" time="2400" value="18.57" bezierintime="1769.7"/>
-        <keyframe type="1" bezierouttime="0" valuestring="" property="1" additionaltrackid="" transitiontime="0" bezieroutvalue="0" bezierinvalue="-38.06" time="2400" value="-38.06" bezierintime="1769.7"/>
-        <keyframe type="1" bezierouttime="0" valuestring="" property="2" additionaltrackid="" transitiontime="0" bezieroutvalue="0" bezierinvalue="75" time="2400" value="75" bezierintime="1769.7"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01">
+      <clip animtitle="Animation01" cliptitle="Woodend Aerial" nextclipstartview="89/3/75/4" length="2400" animtype="0" transitiontype="0" nextclipnodeid="node30" nodeid="" nextcliptitle="Braemar House">
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="18.57" type="0" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="-38.06" type="0" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="75" type="0" property="2"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="4" type="0" property="3"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="299" bezierintime="209.3" valuestring="" value="18.57" bezierouttime="929.3" type="2" bezieroutvalue="18.57" bezierinvalue="18.57" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="299" bezierintime="209.3" valuestring="" value="-38.06" bezierouttime="929.3" type="2" bezieroutvalue="-38.06" bezierinvalue="-38.06" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="299" bezierintime="209.3" valuestring="" value="75" bezierouttime="929.3" type="2" bezieroutvalue="75" bezierinvalue="75" property="2"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="2400" bezierintime="1769.7" valuestring="" value="18.57" bezierouttime="0" type="1" bezieroutvalue="0" bezierinvalue="18.57" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="2400" bezierintime="1769.7" valuestring="" value="-38.06" bezierouttime="0" type="1" bezieroutvalue="0" bezierinvalue="-38.06" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="2400" bezierintime="1769.7" valuestring="" value="75" bezierouttime="0" type="1" bezieroutvalue="0" bezierinvalue="75" property="2"/>
       </clip>
     </animation>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node10">
-    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="3" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="3" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="112.95" tilt="13.05" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="112.95" projection="4" tilt="13.05" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node10" title="Woodend Campus" description="" tags="Edited|Middle" author="" heading="0" datetime="27/10/2017 10:52 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 10:52 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Woodend Campus" description="" tags="Edited|Middle" longitude="" source="" comment="" nodeid="node10" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Reception" description="" pan="-311.66" tilt="3.15" id="Point01" url="{node25}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-311.66" id="Point01" tilt="3.15" title="Reception" description="" target="" skinid="Hotspot 1" url="{node25}"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node25">
-    <input leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-22.95" tilt="-0.87" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-22.95" projection="4" tilt="-0.87" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="-180" fovpixel="2" tilt="-51.903"/>
-      <max fovfisheye="360" pan="180" tilt="51.903" fovstereographic="270" fov="120"/>
+      <max pan="180" tilt="51.903" fov="120" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata nodeid="node25" title="Reception" description="The reception at our Woodend Campus is the gateway to this campus. It is home to our Head of Middle School, reception and administration staff, technology support staff and our first aid staff. Reception has several meeting rooms, a waiting area, the first aid centre and staffroom amenities. The reception area can be pretty busy at times." tags="Edited" author="" heading="0" datetime="27/10/2017 9:34 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 9:34 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Reception" description="The reception at our Woodend Campus is the gateway to this campus. It is home to our Head of Middle School, reception and administration staff, technology support staff and our first aid staff. Reception has several meeting rooms, a waiting area, the first aid centre and staffroom amenities. The reception area can be pretty busy at times." tags="Edited" longitude="" source="" comment="" nodeid="node25" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Yard" description="" pan="-133.16" tilt="-1.72" id="Point01" url="{node14}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-133.16" id="Point01" tilt="-1.72" title="Yard" description="" target="" skinid="Hotspot 1" url="{node14}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-22.290" tilt="-1.440" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-22.290" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-1.440" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Woodend Reception 1 - 18621, 1.45 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node14">
-    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="107.65" tilt="6.02" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="107.65" projection="4" tilt="6.02" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node14" title="Yard" description="The expansive area of the middle school campus has at its heart an oval, allowing students to utilise the open play spaces. The extensive deck areas provide students with undercover seating areas. Our Food Van is located in the central area, a tuckshop alternative for Middle School students. The iconic Hanging Rock is visible from the yard, and Mt Macedon, where our Mt Macedon campus is located, dominating the skyline to the south." tags="Edited" author="" heading="0" datetime="28/10/2017 4:56 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 4:56 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Yard" description="The expansive area of the middle school campus has at its heart an oval, allowing students to utilise the open play spaces. The extensive deck areas provide students with undercover seating areas. Our Food Van is located in the central area, a tuckshop alternative for Middle School students. The iconic Hanging Rock is visible from the yard, and Mt Macedon, where our Mt Macedon campus is located, dominating the skyline to the south." tags="Edited" longitude="" source="" comment="" nodeid="node14" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Learning Space" description="" pan="-203" tilt="1.04" id="Point01" url="{node23}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-203" id="Point01" tilt="1.04" title="Learning Space" description="" target="" skinid="Hotspot 1" url="{node23}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-252.840" tilt="-2.190" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-252.840" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-2.190" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Yard - 18621, 1.39 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node23">
-    <input leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="24.95" tilt="-5.39" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="24.95" projection="4" tilt="-5.39" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node23" title="Learning Space" description="Our contemporary learning spaces allow staff to enhance their lessons using the built features of the room. The furniture is mobile, the walls are pin-able or writable, and large expanses of double-glazed glass allow natural light to fill the classroom and make a connection to the outdoors. The building is well insulated, with heating and cooling working together to optimise the environmental conditions for learning." tags="Edited" author="" heading="0" datetime="28/10/2017 5:24 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 5:24 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Learning Space" description="Our contemporary learning spaces allow staff to enhance their lessons using the built features of the room. The furniture is mobile, the walls are pin-able or writable, and large expanses of double-glazed glass allow natural light to fill the classroom and make a connection to the outdoors. The building is well insulated, with heating and cooling working together to optimise the environmental conditions for learning." tags="Edited" longitude="" source="" comment="" nodeid="node23" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Investigate " description="" pan="-57" tilt="-1.17" id="Point01" url="{node15}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-57" id="Point01" tilt="-1.17" title="Investigate " description="" target="" skinid="Hotspot 1" url="{node15}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-335.050" tilt="-8.090" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-335.050" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-8.090" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/learning space - 18621, 1.15 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node15">
-    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="174.59" tilt="-8.29" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="174.59" projection="4" tilt="-8.29" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node15" title="Investigate " description="Our Middle School students enjoy a curriculum structure that links key subjects together. Encounter (English and Humanities) and Investigate (Mathematics and Science) are two subjects all students undertake all year. Investigate is generally taught in a laboratory setting that is age and stage appropriate. The investigate laboratories retain the mobile furniture, creating flexibility when learning, and the large glass doors create clear links to the 320-acre property with beautiful views to the north." tags="Edited" author="" heading="0" datetime="28/10/2017 5:39 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 5:39 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Investigate " description="Our Middle School students enjoy a curriculum structure that links key subjects together. Encounter (English and Humanities) and Investigate (Mathematics and Science) are two subjects all students undertake all year. Investigate is generally taught in a laboratory setting that is age and stage appropriate. The investigate laboratories retain the mobile furniture, creating flexibility when learning, and the large glass doors create clear links to the 320-acre property with beautiful views to the north." tags="Edited" longitude="" source="" comment="" nodeid="node15" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Visual Arts" description="" pan="-267.8" tilt="-1.26" id="Point01" url="{node9}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-267.8" id="Point01" tilt="-1.26" title="Visual Arts" description="" target="" skinid="Hotspot 1" url="{node9}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-184.580" tilt="-9.190" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-184.580" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-9.190" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/investigate - 18621, 1.42 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node9">
-    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-3" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="-1" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-3" levelbias="0.400" levelingroll="-1" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="175.74" tilt="-10.94" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="175.74" projection="4" tilt="-10.94" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node9" title="Visual Arts" description="Students undertake Art in this purpose-built space. The extensive whiteboard area allows for visible teaching and student expression. The rooms linked to the undercover verandah, with its expansive views of Mt Macedon, provide the budding artists' ideal stimulus." tags="Edited" author="" heading="0" datetime="28/10/2017 6:33 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 6:33 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Visual Arts" description="Students undertake Art in this purpose-built space. The extensive whiteboard area allows for visible teaching and student expression. The rooms linked to the undercover verandah, with its expansive views of Mt Macedon, provide the budding artists' ideal stimulus." tags="Edited" longitude="" source="" comment="" nodeid="node9" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Oval" description="" pan="-348.88" tilt="0.46" id="Point01" url="{node24}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-348.88" id="Point01" tilt="0.46" title="Oval" description="" target="" skinid="Hotspot 1" url="{node24}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-183.750" tilt="-13.800" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-183.750" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-13.800" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Visual Arts - 18621, 1.46 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node24">
-    <input leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="49.31" tilt="2.88" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="49.31" projection="4" tilt="2.88" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node24" title="Oval" description="Our wide-open spaces provide ample play space for structured and unstructured play. Again, the views to Hanging Rock and across to Mt Macedon provide a stimulating vista. The Health and Physical Education Classes use this space and link it with hardcourt areas on campus to offer a broad range of on-campus sporting opportunities. The open areas also provide an ideal setting when the whole College gathers for events such as House Cross Country." tags="Edited" author="" heading="0" datetime="28/10/2017 5:07 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 5:07 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Oval" description="Our wide-open spaces provide ample play space for structured and unstructured play. Again, the views to Hanging Rock and across to Mt Macedon provide a stimulating vista. The Health and Physical Education Classes use this space and link it with hardcourt areas on campus to offer a broad range of on-campus sporting opportunities. The open areas also provide an ideal setting when the whole College gathers for events such as House Cross Country." tags="Edited" longitude="" source="" comment="" nodeid="node24" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Drama" description="" pan="-175.04" tilt="3.09" id="Point01" url="{node21}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-175.04" id="Point01" tilt="3.09" title="Drama" description="" target="" skinid="Hotspot 1" url="{node21}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-307.740" tilt="2.300" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-307.740" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="2.300" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Oval - 18621, 1.44 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node21">
-    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-25.89" tilt="-7.36" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-25.89" projection="4" tilt="-7.36" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node21" title="Drama" description="Our recently opened Drama space has a link to the outdoors while encouraging the Middle School students to dream of what is possible when using the built environment to manage light and sound. Drama is an elective subject that all Middle School students undertake." tags="Edited" author="" heading="0" datetime="28/10/2017 5:02 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 5:02 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Drama" description="Our recently opened Drama space has a link to the outdoors while encouraging the Middle School students to dream of what is possible when using the built environment to manage light and sound. Drama is an elective subject that all Middle School students undertake." tags="Edited" longitude="" source="" comment="" nodeid="node21" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Music" description="" pan="-242.68" tilt="-1.48" id="Point01" url="{node13}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-242.68" id="Point01" tilt="-1.48" title="Music" description="" target="" skinid="Hotspot 1" url="{node13}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-24.710" tilt="-15.570" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-24.710" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-15.570" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/drama - 18621, 1.16 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node13">
-    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="127.34" tilt="-14.08" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="127.34" projection="4" tilt="-14.08" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node13" title="Music" description="The newly completed music room has space and ambience that encourages and enhances our students' musicology. Music is an elective subject that all Middle school students undertake. The wall between music and drama is moveable. When the wall is collapsed into the recessed area, the adjoining spaces create a music and drama connection ideal for musical theatre performances." tags="Edited" author="" heading="0" datetime="28/10/2017 5:58 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 5:58 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Music" description="The newly completed music room has space and ambience that encourages and enhances our students' musicology. Music is an elective subject that all Middle school students undertake. The wall between music and drama is moveable. When the wall is collapsed into the recessed area, the adjoining spaces create a music and drama connection ideal for musical theatre performances." tags="Edited" longitude="" source="" comment="" nodeid="node13" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Reception" description="" pan="-146.77" tilt="-1.66" id="Point01" url="{node32}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-146.77" id="Point01" tilt="-1.66" title="Reception" description="" target="" skinid="Hotspot 1" url="{node32}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-230.770" tilt="-17.750" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-230.770" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-17.750" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Music - 18621, 1.40 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node32">
-    <input leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" tilt="0" projection="4" fov="70"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="-180" fovpixel="2" tilt="-51.903"/>
-      <max fovfisheye="360" pan="180" tilt="51.903" fovstereographic="270" fov="120"/>
+      <max pan="180" tilt="51.903" fov="120" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata nodeid="node32" title="Reception" description="Back at our reception area, we hope you have enjoyed the virtual tour of the Woodend Campus. Now let's take a trip to the Mt Macedon Campus on our Braemar Bus." tags="Edited" author="" heading="0" datetime="27/10/2017 9:34 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 9:34 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Reception" description="Back at our reception area, we hope you have enjoyed the virtual tour of the Woodend Campus. Now let's take a trip to the Mt Macedon Campus on our Braemar Bus." tags="Edited" longitude="" source="" comment="" nodeid="node32" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Bus Journey" description="" pan="-114.21" tilt="-0.6" id="Point01" url="{node17}" target=""/>
-      <hotspot skinid="ht_url" title="Enrol Now" description="" pan="-31.11" tilt="-8.04" id="Point03" url="https://enrol.braemar.vic.edu.au/enrolment-application/start" target="_blank"/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-114.21" id="Point01" tilt="-0.6" title="Bus Journey" description="" target="" skinid="Hotspot 1" url="{node17}"/>
+      <hotspot pan="-31.11" id="Point03" tilt="-8.04" title="Enrol Now" description="" target="_blank" skinid="ht_url" url="https://enrol.braemar.vic.edu.au/enrolment-application/start"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-17.780" tilt="-8.820" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-17.780" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-8.820" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Reception 2 - 18621, 1.47 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node17">
-    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="1.22" tilt="-27.97" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="1.22" projection="4" tilt="-27.97" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node17" title="Bus Journey" description="The bus journey between the two campuses takes about 10 minutes. Mt Macedon Road winds its way from the Woodend township up the northern face of Mt Macedon. A famous painting depicting Braemar House in the 1800’s makes a beautiful mental link to a bygone era when horse and cart travelled these roads." tags="Edited" author="" altitude="690.00" heading="0" datetime="26/04/2021 1:42 PM" copyright="" info="" longitude="144.571502" latitude="-37.361763" comment="" customnodeid="" source=""/>
+    <userdata datetime="26/04/2021 1:42 PM" copyright="" info="" customnodeid="" heading="0" latitude="-37.361763" altitude="690.00" title="Bus Journey" description="The bus journey between the two campuses takes about 10 minutes. Mt Macedon Road winds its way from the Woodend township up the northern face of Mt Macedon. A famous painting depicting Braemar House in the 1800’s makes a beautiful mental link to a bygone era when horse and cart travelled these roads." tags="Edited" longitude="144.571502" source="" comment="" nodeid="node17" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Mt Macedon Campus" description="" pan="-258.66" tilt="2.77" id="Point01" distance="371.983" url="{node26}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-258.66" id="Point01" tilt="2.77" title="Mt Macedon Campus" description="" target="" skinid="Hotspot 1" distance="371.983" url="{node26}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-8.270" tilt="-31.140" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-8.270" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-31.140" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Bus Journey - 17621, 2.52 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node26">
-    <input leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2048" levelbias="0.400" overlap="1" height="2048" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2048" height="2048" predecode="0" preload="0"/>
-      <level width="1024" height="1024" predecode="0" preload="0"/>
-      <level width="512" height="512" predecode="0" preload="0"/>
-      <level width="256" height="256" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2048" height="2048">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0.25" tilt="-23.82" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="0.25" projection="4" tilt="-23.82" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node26" title="Mt Macedon Campus" description="Our Mt Macedon Campus sits nestled in the forest of Mt Macedon. The tall timbers generally hide the campus from onlookers, but our aerial view shows the extent of the built environment and its surrounding forest. The trees surrounding the campus were the backdrop to Fredrick McCubbin's painting &quot;The Pioneers&quot;, and our students enjoy the same serenity of this environment each school day." tags="Edited" author="" altitude="818.00" heading="0" datetime="26/04/2021 12:44 PM" copyright="" info="" longitude="144.574627" latitude="-37.364004" comment="" customnodeid="" source=""/>
+    <userdata datetime="26/04/2021 12:44 PM" copyright="" info="" customnodeid="" heading="0" latitude="-37.364004" altitude="818.00" title="Mt Macedon Campus" description="Our Mt Macedon Campus sits nestled in the forest of Mt Macedon. The tall timbers generally hide the campus from onlookers, but our aerial view shows the extent of the built environment and its surrounding forest. The trees surrounding the campus were the backdrop to Fredrick McCubbin's painting &quot;The Pioneers&quot;, and our students enjoy the same serenity of this environment each school day." tags="Edited" longitude="144.574627" source="" comment="" nodeid="node26" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Braemar House" description="" pan="-357.54" tilt="-40.15" id="Point01" url="{node30}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-357.54" id="Point01" tilt="-40.15" title="Braemar House" description="" target="" skinid="Hotspot 1" url="{node30}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-359.570" tilt="-25.700" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-359.570" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-25.700" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/MM Aerial - 17621, 6.42 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node30">
-    <input leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="5" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="2" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="5" levelbias="0.400" levelingroll="2" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="89" tilt="3" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="89" projection="4" tilt="3" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node30" title="Braemar House" description="" tags="Edited|Senior" author="" heading="0" datetime="28/10/2017 3:29 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 3:29 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Braemar House" description="" tags="Edited|Senior" longitude="" source="" comment="" nodeid="node30" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Reception" description="" pan="-298.6" tilt="-1.28" id="Point01" url="{node4}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-298.6" id="Point01" tilt="-1.28" title="Reception" description="" target="" skinid="Hotspot 1" url="{node4}"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01">
-      <clip nodeid="" length="280" animtype="0" transitiontype="0" nextcliptitle="Braemar House 2" cliptitle="Braemar House" animtitle="Animation01" nextclipnodeid="node30" nextclipstartview="38/20/75/4">
-        <keyframe type="0" valuestring="" property="0" additionaltrackid="" transitiontime="0" time="0" value="89"/>
-        <keyframe type="0" valuestring="" property="1" additionaltrackid="" transitiontime="0" time="0" value="3"/>
-        <keyframe type="0" valuestring="" property="2" additionaltrackid="" transitiontime="0" time="0" value="75"/>
-        <keyframe type="0" valuestring="" property="3" additionaltrackid="" transitiontime="0" time="0" value="4"/>
-        <keyframe type="2" bezierouttime="10240" valuestring="" property="0" additionaltrackid="" transitiontime="0" bezieroutvalue="38" bezierinvalue="38" time="240" value="38" bezierintime="168"/>
-        <keyframe type="2" bezierouttime="10240" valuestring="" property="1" additionaltrackid="" transitiontime="0" bezieroutvalue="20" bezierinvalue="20" time="240" value="20" bezierintime="168"/>
-        <keyframe type="2" bezierouttime="10240" valuestring="" property="2" additionaltrackid="" transitiontime="0" bezieroutvalue="75" bezierinvalue="75" time="240" value="75" bezierintime="168"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01">
+      <clip animtitle="Animation01" cliptitle="Braemar House" nextclipstartview="38/20/75/4" length="280" animtype="0" transitiontype="0" nextclipnodeid="node30" nodeid="" nextcliptitle="Braemar House 2">
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="89" type="0" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="3" type="0" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="75" type="0" property="2"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="4" type="0" property="3"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="240" bezierintime="168" valuestring="" value="38" bezierouttime="10240" type="2" bezieroutvalue="38" bezierinvalue="38" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="240" bezierintime="168" valuestring="" value="20" bezierouttime="10240" type="2" bezieroutvalue="20" bezierinvalue="20" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="240" bezierintime="168" valuestring="" value="75" bezierouttime="10240" type="2" bezieroutvalue="75" bezierinvalue="75" property="2"/>
       </clip>
-      <clip nodeid="" length="2400" animtype="0" transitiontype="0" nextcliptitle="Woodend Aerial" cliptitle="Braemar House 2" animtitle="Animation01" nextclipnodeid="node8" nextclipstartview="18.57/-38.06/75/4">
-        <keyframe type="0" valuestring="" property="0" additionaltrackid="" transitiontime="0" time="0" value="38"/>
-        <keyframe type="0" valuestring="" property="1" additionaltrackid="" transitiontime="0" time="0" value="20"/>
-        <keyframe type="2" bezierouttime="3.9" valuestring="" property="2" additionaltrackid="" transitiontime="0" bezieroutvalue="75" bezierinvalue="75" time="0" value="75" bezierintime="-60"/>
-        <keyframe type="0" valuestring="" property="3" additionaltrackid="" transitiontime="0" time="0" value="4"/>
+      <clip animtitle="Animation01" cliptitle="Braemar House 2" nextclipstartview="18.57/-38.06/75/4" length="2400" animtype="0" transitiontype="0" nextclipnodeid="node8" nodeid="" nextcliptitle="Woodend Aerial">
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="38" type="0" property="0"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="20" type="0" property="1"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" bezierintime="-60" valuestring="" value="75" bezierouttime="3.9" type="2" bezieroutvalue="75" bezierinvalue="75" property="2"/>
+        <keyframe transitiontime="0" additionaltrackid="" time="0" valuestring="" value="4" type="0" property="3"/>
       </clip>
     </animation>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node4">
-    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="128.37" tilt="-3.67" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="128.37" projection="4" tilt="-3.67" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node4" title="Reception" description="The Mt Macedon reception area is the gateway to Braemar House. The foyer has retained many features from its earliest days, with the ceiling roses, fireplace and mantelpieces visible. The sweeping steps take the visitor to the house's first floor, while the doors in the foyer usher the visitor to our dining room, home to our restaurant Jacksons@Braemar. The surrounding class spaces are home to students during the day. The sculpture in the foyer was created to commemorate the 40th anniversary of the College. The sculpture was unveiled by the first Headmaster, Mr Graham Farley (OA) and comprised 3D printed blocks from each staff, student, and Board Member at the College in 2016." tags="Edited" author="" heading="0" datetime="27/10/2017 7:51 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 7:51 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Reception" description="The Mt Macedon reception area is the gateway to Braemar House. The foyer has retained many features from its earliest days, with the ceiling roses, fireplace and mantelpieces visible. The sweeping steps take the visitor to the house's first floor, while the doors in the foyer usher the visitor to our dining room, home to our restaurant Jacksons@Braemar. The surrounding class spaces are home to students during the day. The sculpture in the foyer was created to commemorate the 40th anniversary of the College. The sculpture was unveiled by the first Headmaster, Mr Graham Farley (OA) and comprised 3D printed blocks from each staff, student, and Board Member at the College in 2016." tags="Edited" longitude="" source="" comment="" nodeid="node4" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Jackson Hall" description="" pan="-32.06" tilt="-5.18" id="Point01" url="{node22}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-32.06" id="Point01" tilt="-5.18" title="Jackson Hall" description="" target="" skinid="Hotspot 1" url="{node22}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-231.960" tilt="-7.840" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-231.960" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-7.840" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/MM Reception 1- 17621, 6.39 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node22">
-    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="24.93" tilt="-9.75" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="24.93" projection="4" tilt="-9.75" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node22" title="Jackson Hall" description="Jacksons@Bramear is a training restaurant. Students in Years 8 to 12 have access to these teaching facilities. This room has played host to many significant events which have supported the local community, including the Woodend Winter Arts Festival and fundraising dinners for the Mt Macedon Dawn Cross committee. Jacksons@Braemar is open on specific weekdays as well as Thursday evenings. The night events allow talented students in the performing arts area to showcase their talent while preparing for upcoming performances. The walls of the room make a beautiful backdrop for the artwork of the students in Senior School." tags="Edited" author="" heading="0" datetime="27/10/2017 8:19 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 8:19 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Jackson Hall" description="Jacksons@Bramear is a training restaurant. Students in Years 8 to 12 have access to these teaching facilities. This room has played host to many significant events which have supported the local community, including the Woodend Winter Arts Festival and fundraising dinners for the Mt Macedon Dawn Cross committee. Jacksons@Braemar is open on specific weekdays as well as Thursday evenings. The night events allow talented students in the performing arts area to showcase their talent while preparing for upcoming performances. The walls of the room make a beautiful backdrop for the artwork of the students in Senior School." tags="Edited" longitude="" source="" comment="" nodeid="node22" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Commercial Kitchen" description="" pan="-359.24" tilt="0.68" id="Point01" url="{node19}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-359.24" id="Point01" tilt="0.68" title="Commercial Kitchen" description="" target="" skinid="Hotspot 1" url="{node19}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-333.220" tilt="-14.070" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-333.220" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-14.070" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Jackson Hall - 17621, 6.49 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node19">
-    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="1" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="1" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-70.96" tilt="-2.05" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-70.96" projection="4" tilt="-2.05" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node19" title="Commercial Kitchen" description="The training restaurant is used by students from Years 8 to 12. The facilities are staffed by a dedicated team of staff, including chefs, cooks and teaching assistants. Our VCE students undertake nationally recognised vocational education training certificates in Hospitality. The graduates are highly sought after and work in the local and Melbourne food scene. The combination of the front of house and back of house facilities, and the excellent educational opportunities they provide, make the College the envy of many." tags="Edited" author="" heading="0" datetime="27/10/2017 8:36 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 8:36 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Commercial Kitchen" description="The training restaurant is used by students from Years 8 to 12. The facilities are staffed by a dedicated team of staff, including chefs, cooks and teaching assistants. Our VCE students undertake nationally recognised vocational education training certificates in Hospitality. The graduates are highly sought after and work in the local and Melbourne food scene. The combination of the front of house and back of house facilities, and the excellent educational opportunities they provide, make the College the envy of many." tags="Edited" longitude="" source="" comment="" nodeid="node19" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Design &amp; Tech" description="" pan="-172" tilt="-1.7" id="Point01" url="{node20}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-172" id="Point01" tilt="-1.7" title="Design &amp; Tech" description="" target="" skinid="Hotspot 1" url="{node20}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-64.240" tilt="-9.390" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-64.240" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-9.390" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Commercial Kitchen- 17621, 6.50 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node20">
-    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-1" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-1" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-3.96" tilt="-9.94" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-3.96" projection="4" tilt="-9.94" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node20" title="Design &amp; Tech" description="The digital technology facilities are housed in one of the many modernised rooms of the College. Taking the lead from the Woodend Campus built environment, the students learn in flexible contemporary spaces. Digital technologies encompass 3D printing, laser cutting and engraving, along with programming and design. Students can explore these areas through a large number of Year 9 and 10 elective subjects." tags="Edited" author="" heading="0" datetime="27/10/2017 10:22 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 10:22 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Design &amp; Tech" description="The digital technology facilities are housed in one of the many modernised rooms of the College. Taking the lead from the Woodend Campus built environment, the students learn in flexible contemporary spaces. Digital technologies encompass 3D printing, laser cutting and engraving, along with programming and design. Students can explore these areas through a large number of Year 9 and 10 elective subjects." tags="Edited" longitude="" source="" comment="" nodeid="node20" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Science" description="" pan="-42.9" tilt="0.96" id="Point01" url="{node6}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-42.9" id="Point01" tilt="0.96" title="Science" description="" target="" skinid="Hotspot 1" url="{node6}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-356.580" tilt="-21.480" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-356.580" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-21.480" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Design and Tech- 17621, 6.44 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node6">
-    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="-1" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="-1" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="82.85" tilt="-3.71" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="82.85" projection="4" tilt="-3.71" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node6" title="Science" description="The investigate subject in Middle School expands to encompass Science and Mathematics in the Senior School. Science, along with Mathematics and English, is a compulsory core subject until the conclusion of Year 10. While the buildings are more traditional, the links to the timbered slopes of Mt Macedon make it an attractive place to learn. Students and staff can see a koala snoozing away in the tall gums on the odd occasion." tags="Edited" author="" heading="0" datetime="27/10/2017 10:34 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 10:34 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Science" description="The investigate subject in Middle School expands to encompass Science and Mathematics in the Senior School. Science, along with Mathematics and English, is a compulsory core subject until the conclusion of Year 10. While the buildings are more traditional, the links to the timbered slopes of Mt Macedon make it an attractive place to learn. Students and staff can see a koala snoozing away in the tall gums on the odd occasion." tags="Edited" longitude="" source="" comment="" nodeid="node6" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Physics" description="" pan="-254.74" tilt="-2.98" id="Point01" url="{node3}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-254.74" id="Point01" tilt="-2.98" title="Physics" description="" target="" skinid="Hotspot 1" url="{node3}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-276.980" tilt="-18.060" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-276.980" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-18.060" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Science 1 - 17621, 6.46 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node3">
-    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="71.69" tilt="-13.2" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="71.69" projection="4" tilt="-13.2" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node3" title="Physics" description="Encouraging students to dream of what can be achieved has driven the redevelopment of the learning spaces. Materials from the Woodend Campus build are incorporated into the built environment, and the students benefit from a contemporary classroom configuration." tags="Edited" author="" heading="0" datetime="28/10/2017 7:09 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 7:09 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Physics" description="Encouraging students to dream of what can be achieved has driven the redevelopment of the learning spaces. Materials from the Woodend Campus build are incorporated into the built environment, and the students benefit from a contemporary classroom configuration." tags="Edited" longitude="" source="" comment="" nodeid="node3" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Gym" description="" pan="-184.46" tilt="0.5" id="Point01" url="{node28}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-184.46" id="Point01" tilt="0.5" title="Gym" description="" target="" skinid="Hotspot 1" url="{node28}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-286.020" tilt="-23.940" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-286.020" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-23.940" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Physics - 17621, 6.48 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node28">
-    <input leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="49.64" tilt="-6.3" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="49.64" projection="4" tilt="-6.3" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node28" title="Gym" description="The gymnasium is a two-story structure on the Mt Macedon site. The building, called the Brooksbank Centre, is one of the only buildings visible through the forest when looking from Woodend. The upper story is home to our gymnasium. All students use this area as they explore indoor sports through many elective choices. The outdoor spaces, visible in the aerial images of the College, are used for general outdoor play. The ground floor of the building is our bushfire evacuation area." tags="Edited" author="" heading="0" datetime="28/10/2017 10:10 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 10:10 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Gym" description="The gymnasium is a two-story structure on the Mt Macedon site. The building, called the Brooksbank Centre, is one of the only buildings visible through the forest when looking from Woodend. The upper story is home to our gymnasium. All students use this area as they explore indoor sports through many elective choices. The outdoor spaces, visible in the aerial images of the College, are used for general outdoor play. The ground floor of the building is our bushfire evacuation area." tags="Edited" longitude="" source="" comment="" nodeid="node28" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="DEMC Courtyard" description="" pan="-113.62" tilt="-0.34" id="Point01" url="{node2}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-113.62" id="Point01" tilt="-0.34" title="DEMC Courtyard" description="" target="" skinid="Hotspot 1" url="{node2}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-310.690" tilt="-8.180" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-310.690" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-8.180" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Gymnasium - 6721, 1.53 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-90.05" tilt="9.87" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90.05" projection="4" tilt="9.87" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node2" title="DEMC Courtyard" description="The Dame Elisabeth Murdoch Centre was named after our patron, the late Dame Elisabeth. The building sits at the top of the property and passive play areas link the levels. The area is home to Senior School students, and when the weather is conducive to be outdoors, the students enjoy the quiet spaces with their friends." tags="Edited" author="" heading="0" datetime="28/10/2017 3:40 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 3:40 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="DEMC Courtyard" description="The Dame Elisabeth Murdoch Centre was named after our patron, the late Dame Elisabeth. The building sits at the top of the property and passive play areas link the levels. The area is home to Senior School students, and when the weather is conducive to be outdoors, the students enjoy the quiet spaces with their friends." tags="Edited" longitude="" source="" comment="" nodeid="node2" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Cafeteria" description="" pan="-92.45" tilt="7.2" id="Point01" url="{node27}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-92.45" id="Point01" tilt="7.2" title="Cafeteria" description="" target="" skinid="Hotspot 1" url="{node27}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-90.050" tilt="-4.480" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-90.050" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-4.480" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/DEMC Courtyard Final - 18621, 8.44 am.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node27">
-    <input leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-51.12" tilt="-5.12" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="-51.12" projection="4" tilt="-5.12" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node27" title="Cafeteria" description="Our tuckshop is housed on the lower level of the Dame Elisabeth Murdoch Centre. The students access the tuckshop's menu using a no-touch, app-based ordering system. The tuckshop is staffed by members of the Braemar Educational Support Service Team.  The space plays host to year level and house meetings, along with providing a venue for functions. The large sliding doors and beautiful views across the campus and further afield make it an idyllic setting." tags="Edited" author="" heading="0" datetime="28/10/2017 8:50 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 8:50 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Cafeteria" description="Our tuckshop is housed on the lower level of the Dame Elisabeth Murdoch Centre. The students access the tuckshop's menu using a no-touch, app-based ordering system. The tuckshop is staffed by members of the Braemar Educational Support Service Team.  The space plays host to year level and house meetings, along with providing a venue for functions. The large sliding doors and beautiful views across the campus and further afield make it an idyllic setting." tags="Edited" longitude="" source="" comment="" nodeid="node27" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 1" title="Classroom" description="" pan="-333.1" tilt="-0.78" id="Point01" url="{node31}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-333.1" id="Point01" tilt="-0.78" title="Classroom" description="" target="" skinid="Hotspot 1" url="{node31}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-48.450" tilt="-15.550" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-48.450" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-15.550" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Caf - 17621, 6.41 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node31">
-    <input leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="51.08" tilt="-12.1" projection="4" fov="75"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="51.08" projection="4" tilt="-12.1" fov="75"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node31" title="Classroom" description="Our Senior School students learn in more traditional learning spaces. The work done in the classroom is enhanced through the abundant natural light, connections with the outdoors and beautiful vista. The students in senior school use laptops as part of their education." tags="Edited" author="" heading="0" datetime="28/10/2017 9:59 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="28/10/2017 9:59 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Classroom" description="Our Senior School students learn in more traditional learning spaces. The work done in the classroom is enhanced through the abundant natural light, connections with the outdoors and beautiful vista. The students in senior school use laptops as part of their education." tags="Edited" longitude="" source="" comment="" nodeid="node31" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 2" title="Reception" description="" pan="-122.95" tilt="-7.17" id="Point01" url="{node33}" target=""/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-122.95" id="Point01" tilt="-7.17" title="Reception" description="" target="" skinid="Hotspot 2" url="{node33}"/>
     </hotspots>
     <media>
-      <sound nodechangekeep="0" loop="1" pan="-296.060" tilt="-25.260" id="Element01" mode="1" startmutedmobile="0" field="90.000" tiltsize="10.000" level="1.000" ambientlevel="0.000" pansize="10.000">
+      <sound pan="-296.060" tiltsize="10.000" startmutedmobile="0" nodechangekeep="0" id="Element01" pansize="10.000" tilt="-25.260" ambientlevel="0.000" mode="1" level="1.000" loop="1" field="90.000">
         <source url="media/Classroom - 17621, 6.46 pm.mp3"/>
       </sound>
     </media>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <panorama id="node33">
-    <input leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="2000" levelbias="0.400" overlap="1" height="2000" levelingroll="0" leveltilesize="510" levelbiashidpi="1.000">
-      <level width="2000" height="2000" predecode="0" preload="0"/>
-      <level width="1000" height="1000" predecode="0" preload="0"/>
-      <level width="500" height="500" predecode="1" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" overlap="1" width="2000" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="128.37" tilt="-3.67" projection="4" fov="70"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view pannorth="0" fovmode="0">
+      <start pan="128.37" projection="4" tilt="-3.67" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="270" fov="120" scaletofit="1"/>
+      <max pan="360" tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata nodeid="node33" title="Reception" description="The Mt Macedon reception area is the gateway to Braemar House. The foyer has retained many features from its earliest days, with the ceiling roses, fireplace and mantelpieces visible. The sweeping steps take the visitor to the house's first floor, while the doors in the foyer usher the visitor to our dining room, home to our restaurant Jacksons@Braemar. The surrounding class spaces are home to students during the day. The sculpture in the foyer was created to commemorate the 40th anniversary of the College. The sculpture was unveiled by the first Headmaster, Mr Graham Farley (OA) and comprised 3D printed blocks from each staff, student, and Board Member at the College in 2016." tags="Edited" author="" heading="0" datetime="27/10/2017 7:51 PM" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="27/10/2017 7:51 PM" copyright="" info="" customnodeid="" heading="0" latitude="" title="Reception" description="The Mt Macedon reception area is the gateway to Braemar House. The foyer has retained many features from its earliest days, with the ceiling roses, fireplace and mantelpieces visible. The sweeping steps take the visitor to the house's first floor, while the doors in the foyer usher the visitor to our dining room, home to our restaurant Jacksons@Braemar. The surrounding class spaces are home to students during the day. The sculpture in the foyer was created to commemorate the 40th anniversary of the College. The sculpture was unveiled by the first Headmaster, Mr Graham Farley (OA) and comprised 3D printed blocks from each staff, student, and Board Member at the College in 2016." tags="Edited" longitude="" source="" comment="" nodeid="node33" author=""/>
     <hotspots wordwrap="1" width="180" height="20">
-      <label wordwrap="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" width="180" border="1" enabled="1" bordercolor="0x000000" height="20" borderradius="1" textcolor="0x000000" backgroundalpha="1" background="1"/>
-      <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="Hotspot 2" title="Back to Woodend" description="" pan="-214.25" tilt="0.7" id="Point02" url="{node11}" target=""/>
-      <hotspot skinid="ht_url" title="Enrol Now" description="" pan="-250.09" tilt="-7.71" id="Point03" url="https://enrol.braemar.vic.edu.au/enrolment-application/start" target="_blank"/>
+      <label wordwrap="1" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" border="1" enabled="1" width="180" textcolor="0x000000" height="20" bordercolor="0x000000" background="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-214.25" id="Point02" tilt="0.7" title="Back to Woodend" description="" target="" skinid="Hotspot 2" url="{node11}"/>
+      <hotspot pan="-250.09" id="Point03" tilt="-7.71" title="Enrol Now" description="" target="_blank" skinid="ht_url" url="https://enrol.braemar.vic.edu.au/enrolment-application/start"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" zoomafteroutfov="20" zoomin="2" softedge="0" enabled="1" blendtime="1" zoomoutpause="0" zoomafterinfov="90" zoomout="2" blendcolor="0x000000"/>
-    <autorotate nodedelay="0.00" returntohorizon="0.100" nodefilter="" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="1" delay="1.00"/>
-    <flyintransition enabled="1" speed="2.00"/>
-    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" rubberband="0" lockedmouse="0" simulatemass="1" invertwheel="0" hideabout="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextvr="1" contextprojections="0" sensitivity="8" speedwheel="1"/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomfov="20" zoomin="2" softedge="0" zoomoutpause="0" type="crossdissolve" enabled="1" zoomafterinfov="90" zoomafteroutfov="20" zoomout="2" blendtime="1"/>
+    <autorotate useanimation="1" delay="1.00" speed="0.030" returntohorizon="0.100" nodefilter="" noderandom="1" enabled="1" nodedelay="0.00" startloaded="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" speedwheel="1" hideabout="0" invertcontrol="1" sensitivity="8" invertwheel="0" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedwheel="0"/>
   </panorama>
   <masternode>
-    <userdata nodeid="master" title="" description="" tags="" author="" heading="0" datetime="" copyright="" info="" longitude="" latitude="" comment="" customnodeid="" source=""/>
+    <userdata datetime="" copyright="" info="" customnodeid="" heading="0" latitude="" title="" description="" tags="" longitude="" source="" comment="" nodeid="master" author=""/>
   </masternode>
 </tour>
