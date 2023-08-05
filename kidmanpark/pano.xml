@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.15" start="node10" apprev="18116">
+  <panorama id="node10">
+    <input width="5366" overlap="1" leveltilesize="510" height="5366" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="5366" predecode="0" height="5366" preload="0"/>
+      <level width="2683" predecode="0" height="2683" preload="0"/>
+      <level width="1341" predecode="0" height="1341" preload="0"/>
+      <level width="670" predecode="0" height="670" preload="0"/>
+      <level width="335" predecode="1" height="335" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="72.68" projection="4" tilt="-1.78" pan="-4.11"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-44.9012" pan="-180" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" fovfisheye="360" tilt="44.9012" pan="180"/>
+    </view>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="node10" latitude="" heading="0" customnodeid="" author="" description="" datetime="18/04/2023 10:22 AM" source="" tags="Edited Panoramas"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" borderalpha="1" width="180" wordwrap="1" enabled="1" height="20" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="" skinid="ht_node" tilt="-20.68" target="" id="Point01" pan="-359.11" url="{node11}" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomin="2" blendcolor="0x000000" type="crossdissolve" zoomout="2" zoomoutpause="0" zoomafterinfov="90" zoomfov="20" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <autorotate returntohorizon="0.100" startloaded="0" enabled="1" useanimation="0" delay="5.00" noderandom="1" nodefilter="" speed="0.010" nodedelay="0.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" simulatemass="1" speedwheel="1" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="5155" overlap="1" leveltilesize="510" height="5155" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="5155" predecode="0" height="5155" preload="0"/>
+      <level width="2577" predecode="0" height="2577" preload="0"/>
+      <level width="1288" predecode="0" height="1288" preload="0"/>
+      <level width="644" predecode="0" height="644" preload="0"/>
+      <level width="322" predecode="1" height="322" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80.05" projection="4" tilt="-6.88" pan="-52.23"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-46.9069" pan="-180" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" fovfisheye="360" tilt="46.9069" pan="180"/>
+    </view>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="node11" latitude="" heading="0" customnodeid="" author="" description="" datetime="18/04/2023 10:25 AM" source="" tags="Edited Panoramas"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" borderalpha="1" width="180" wordwrap="1" enabled="1" height="20" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="" skinid="ht_node" tilt="-21.97" target="" id="Point02" pan="-4.13" url="{node13}" description=""/>
+      <hotspot title="" skinid="ht_node" tilt="-34.27" target="" id="Point03" pan="-199.44" url="{node10}" description=""/>
+      <hotspot title="" skinid="ht_node" tilt="-24.04" target="" id="Point01" pan="-98.08" url="{node15}" description=""/>
+      <hotspot title="Collaboration Space" skinid="ht_info" tilt="-3.02" target="" id="Point04" pan="-335.15" url="" description="The collaboration space can be used for a variety of different learning stations in the Learning Lab.&#xa;&#xa;Learning stations are physical areas where students move from station to station while working on a variety of set activities and/or materials in small groups. &#xa;&#xa;Stations can provide time for practice, preview, review, collaboration, choice work time, and small group or individual teacher time."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomin="2" blendcolor="0x000000" type="crossdissolve" zoomout="2" zoomoutpause="0" zoomafterinfov="90" zoomfov="20" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <autorotate returntohorizon="0.100" startloaded="0" enabled="1" useanimation="0" delay="5.00" noderandom="1" nodefilter="" speed="0.010" nodedelay="0.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" simulatemass="1" speedwheel="1" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="5174" overlap="1" leveltilesize="510" height="5174" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="5174" predecode="0" height="5174" preload="0"/>
+      <level width="2587" predecode="0" height="2587" preload="0"/>
+      <level width="1293" predecode="0" height="1293" preload="0"/>
+      <level width="646" predecode="0" height="646" preload="0"/>
+      <level width="323" predecode="1" height="323" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="86.78" projection="4" tilt="3.97" pan="-12.81"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-47.3635" pan="-180" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" fovfisheye="360" tilt="47.3635" pan="180"/>
+    </view>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="node13" latitude="" heading="0" customnodeid="" author="" description="" datetime="18/04/2023 10:42 AM" source="" tags="Edited Panoramas"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" borderalpha="1" width="180" wordwrap="1" enabled="1" height="20" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="Educational Support" skinid="ht_info" tilt="-7.41" target="" id="Point01" pan="-63.09" url="" description="Each school that owns a Lumination Learning Lab receives ongoing support throughout the process from onboarding, handover and beyond.&#xa;&#xa;The school will also gain access to the Lumination Education Centre that will teach you how to utilise immersive technologies and implement them within your own classroom."/>
+      <hotspot title="Transform Kidman Park's Lab" skinid="ht_video_youtube" tilt="4.15" target="" id="Point02" pan="-166.52" url="bOytKBz1h4k" description=""/>
+      <hotspot title="Modes" skinid="ht_info" tilt="5.46" target="" id="Point03" pan="-145.81" url="" description="Classroom Mode&#xa;Turns the Lab into a flexible classroom environment for a variety of use cases. Utilise the projectors as presentation or media displays.&#xa;&#xa;Virtual Reality Mode&#xa;Sets the stage for immersive Virtual Reality (VR) learning, allowing you to collaborate and engage with VR experiences.&#xa;&#xa;Presentation Mode&#xa;Transforms the Lab into a presentation space that displays content on screens to facilitate group interaction. "/>
+      <hotspot title="Immersive Learning Tools" skinid="ht_info" tilt="-10.39" target="" id="Point06" pan="-327.97" url="" description="Immersive Learning Kits expand learning opportunities for students inside a Lab through augmented reality (AR) and mixed reality (XR) technology. Kits are used as part of the station-based learning in the collaboration space."/>
+      <hotspot title="" skinid="ht_node" tilt="-21.74" target="" id="Point07" pan="-193.94" url="{node11}" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomin="2" blendcolor="0x000000" type="crossdissolve" zoomout="2" zoomoutpause="0" zoomafterinfov="90" zoomfov="20" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <autorotate returntohorizon="0.100" startloaded="0" enabled="1" useanimation="0" delay="5.00" noderandom="1" nodefilter="" speed="0.010" nodedelay="0.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" simulatemass="1" speedwheel="1" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="5429" overlap="1" leveltilesize="510" height="5429" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="5429" predecode="0" height="5429" preload="0"/>
+      <level width="2714" predecode="0" height="2714" preload="0"/>
+      <level width="1357" predecode="0" height="1357" preload="0"/>
+      <level width="678" predecode="0" height="678" preload="0"/>
+      <level width="339" predecode="1" height="339" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="80.13" projection="4" tilt="4.07" pan="-5.52"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-44.3629" pan="-180" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" fovfisheye="360" tilt="44.3629" pan="180"/>
+    </view>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="node15" latitude="" heading="0" customnodeid="" author="" description="" datetime="18/04/2023 10:09 AM" source="" tags="Edited Panoramas"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" borderalpha="1" width="180" wordwrap="1" enabled="1" height="20" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="LeadMe Tablet" skinid="ht_info" tilt="8.99" target="" id="Point01" pan="-297.17" url="" description="LeadMe Labs enables teachers to control the Lumination Learning Lab from one place with an easy-to-use interface and can automate their Lab to fast-track learning.&#xa;&#xa;Using LeadMe Labs you can select the mode you want to use for learning, turn on projectors, control lights, blinds, ring lights, screen configurations, launch and close VR experiences all from the touch of your finger. "/>
+      <hotspot title="" skinid="ht_node" tilt="-27.74" target="" id="Point02" pan="-349.46" url="{node9}" description=""/>
+      <hotspot title="LED Rings" skinid="ht_info" tilt="-19.74" target="" id="Point04" pan="-36.63" url="" description="The LED Rings keep students safe inside the experience. When a student moves close to the edge of the ring a digital red fencing will appear inside the experience to show them the limits of the space."/>
+      <hotspot title="" skinid="ht_node" tilt="-25.72" target="" id="Point06" pan="-142.37" url="{node11}" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomin="2" blendcolor="0x000000" type="crossdissolve" zoomout="2" zoomoutpause="0" zoomafterinfov="90" zoomfov="20" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <autorotate returntohorizon="0.100" startloaded="0" enabled="1" useanimation="0" delay="5.00" noderandom="1" nodefilter="" speed="0.010" nodedelay="0.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" simulatemass="1" speedwheel="1" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="5330" overlap="1" leveltilesize="510" height="5330" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="5330" predecode="0" height="5330" preload="0"/>
+      <level width="2665" predecode="0" height="2665" preload="0"/>
+      <level width="1332" predecode="0" height="1332" preload="0"/>
+      <level width="666" predecode="0" height="666" preload="0"/>
+      <level width="333" predecode="1" height="333" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-43.4332" pan="-180" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" fovfisheye="360" tilt="43.4332" pan="180"/>
+    </view>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="node9" latitude="" heading="0" customnodeid="" author="" description="" datetime="18/04/2023 10:12 AM" source="" tags="Edited Panoramas"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" borderalpha="1" width="180" wordwrap="1" enabled="1" height="20" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot title="VR Headset Stands" skinid="ht_info" tilt="-11.46" target="" id="Point02" pan="-333.49" url="" description="The portable VR Headset Stands securely hold the headsets in place while you wait to begin the immersive learning. &#xa;&#xa;When not in use the stands can be moved and placed in the storage unit. "/>
+      <hotspot title="Storage Space" skinid="ht_info" tilt="1.13" target="" id="Point03" pan="-127.3" url="" description="Use the secure storage unit to store, charge and keep the immersive technology safe. &#xa;&#xa;Setting up the space is quick as the immersive technology is labelled for easy use. In moments you can transfer the space between modes and set up the equipment to be ready for experiential learning."/>
+      <hotspot title="VR Headsets and Controllers" skinid="ht_info" tilt="-5.06" target="" id="Point06" pan="-61.89" url="" description="The VR Headsets give teachers and students access to experiences linked directly to all subjects within the curriculum.&#xa; &#xa;VR Headsets are worn over the head and handheld controllers are secured with straps, allowing the user to interact with and experience new digital worlds.  "/>
+      <hotspot title="Projector Screens" skinid="ht_info" tilt="16.25" target="" id="Point07" pan="-182.16" url="" description="The projector screens have a number of uses inside a Lumination Learning Lab. &#xa;&#xa;In VR Mode the screens allow you to view what is happening inside an experience seen by the user wearing the VR headset. Students and teachers can collaborate with those inside the experience. &#xa;&#xa;In Presentation Mode content can be viewed on one or more screens through wireless casting from a computer or device. This is great for presentations and group learning. "/>
+      <hotspot title="" skinid="ht_node" tilt="-19.82" target="" id="Point04" pan="-90.02" url="{node15}" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomin="2" blendcolor="0x000000" type="crossdissolve" zoomout="2" zoomoutpause="0" zoomafterinfov="90" zoomfov="20" zoomspeed="2" softedge="0" zoomafteroutfov="20"/>
+    <autorotate returntohorizon="0.100" startloaded="0" enabled="1" useanimation="0" delay="5.00" noderandom="1" nodefilter="" speed="0.010" nodedelay="0.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control invertwheel="0" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" sensitivity="8" contextfullscreen="1" dblclickfullscreen="0" rubberband="0" lockedwheel="0" simulatemass="1" speedwheel="1" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" longitude="" title="" info="" copyright="" nodeid="master" latitude="" heading="0" customnodeid="" author="" description="" datetime="" source="" tags=""/>
+  </masternode>
+</tour>

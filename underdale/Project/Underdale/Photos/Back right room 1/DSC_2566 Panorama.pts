@@ -1,0 +1,1137 @@
+{
+	"$schema": "https://www.ptgui.com/schemas/project_v9.schema.json",
+	"contenttype": "com.ptgui.project_pro",
+	"software": "PTGui Pro 11.32",
+	"fileversion": 9,
+	"compatibleversion": 6,
+	"compatibleapplication": "PTGui 11",
+	"project": {
+		"pathseparator": "\\",
+		"portraitcameraorientation": "counterclockwise",
+		"metadata": {
+			"resolution": 3e2,
+			"overridelatitude": null,
+			"overridelongitude": null,
+			"overridedirection": null
+		},
+		"outputcomponents": {
+			"hdrlayers": false,
+			"hdrblendplanes": false,
+			"hdrblended": false,
+			"ldrpanorama": true,
+			"ldrlayers": false,
+			"ldrblendplanes": false
+		},
+		"hdrsettings": {
+			"enabled": false,
+			"tonemapldrpanorama": false,
+			"fileformat": "exr",
+			"tiffparams": {
+				"compression": "lzw",
+				"datatype": "f32",
+				"alphatype": "associated"
+			},
+			"psdparams": {
+				"compression": "none",
+				"datatype": "f32",
+				"layermode": "layered"
+			},
+			"exrparams": {
+				"alphamode": "withalpha",
+				"bitdepth": "half",
+				"compression": "PIZ"
+			},
+			"previewexposure": 0,
+			"tonemapsettings": {
+				"targetbrightness": 4.50000000000000011e-1,
+				"autoboost": true,
+				"boostshadows": 2e1,
+				"reducehighlights": 2e1,
+				"contrast": 0,
+				"compression": 1.49999999999999994e-1,
+				"saturation": 0
+			},
+			"exposurefusionsettings": {
+				"targetbrightness": 5e-1,
+				"contrast": 0,
+				"boostshadows": 0,
+				"reducehighlights": 0,
+				"sigma": 2.00000000000000011e-1
+			},
+			"hdrmethod": "exposurefusion",
+			"noisefloor": 2.00000002980232239e-1
+		},
+		"projectsettings": {
+			"alignsettings": {
+				"generatecp": true,
+				"optimize": true,
+				"roughlyalign": true,
+				"straighten": true,
+				"fit": true,
+				"chooseprojection": true,
+				"optimizeexposure": false,
+				"isprealigned": false
+			},
+			"templatesettings": {
+				"lens": true,
+				"imageparams": true,
+				"preservepanoramaorientation": false,
+				"mask": true,
+				"panoramasettings": true,
+				"projectsettings": true,
+				"optimizer": true,
+				"linkimages": "fromtemplate"
+			},
+			"batchstitchersettings": {
+				"align": false,
+				"stitch": true,
+				"stitchonlyifcontrolpoints": true
+			},
+			"defaultfilenaming": {
+				"defaultprojectfilenamemode": "sameassourceimage",
+				"defaultprojectfilenamecustom": " Panorama",
+				"defaultprojectfoldermode": "sameassourceimage",
+				"defaultprojectfoldercustom": "",
+				"defaultpanoramafilenamemode": "sameasproject",
+				"defaultpanoramafilenamecustom": "",
+				"defaultpanoramafoldermode": "sameasproject",
+				"defaultpanoramafoldercustom": "",
+				"userelativesourceimagepaths": true
+			},
+			"hdrsettings": {
+				"hdrlinkmode": "hdrlink",
+				"hdrlinkwithoutasking": false
+			},
+			"optimizeraskreinitialize": true,
+			"useexifforbatchbuilder": false,
+			"useexif": true,
+			"honorexiforientation": true,
+			"multilenscompositeimagesupport": "loadtwice",
+			"autosetpanoramato360equirect": true,
+			"useorientationsensordata": true
+		},
+		"outputsize": {
+			"mode": "relative",
+			"fractionofoptimumsize": 1
+		},
+		"previewsizerelative": 2.5e-1,
+		"blend": {
+			"blender": "ptgui",
+			"feather": -5.99999999999999978e-1,
+			"mode": "multiband"
+		},
+		"hasbeenoptimized": true,
+		"autocpdone": true,
+		"simpleproject": false,
+		"templateapplied": false,
+		"panoramaparams": {
+			"outputfile": "E:\\2023_Lumination\\VR Tours\\Underdale\\Photos\\Panorama Exports\\Back right room_Panorama.jpg",
+			"hfov": 3.26146930575370789e2,
+			"vfov": 8.09954559206962585e1,
+			"projection": "equirectangular",
+			"projectioncompression": {
+				"rectilinearx": 0,
+				"rectilineary": 0,
+				"cylindricaly": 0,
+				"transversecylindricalx": 0,
+				"vedutismox": 1,
+				"transversevedutismoy": 1,
+				"stereographic": 1,
+				"rectifisheye": 1
+			},
+			"interpolator": "default",
+			"fileformat": "jpeg",
+			"jpegparams": {
+				"quality": 95
+			},
+			"tiffparams": {
+				"compression": "packbits",
+				"datatype": "u8",
+				"alphatype": "associated"
+			},
+			"psdparams": {
+				"compression": "packbits",
+				"datatype": "u8",
+				"layermode": "layered"
+			},
+			"qtvrparams": {
+				"windowsize": [800,600],
+				"cubesizeauto": true,
+				"cubesize": 1000,
+				"jpegquality": 70,
+				"includepreview": false,
+				"pan": {
+					"initial": 0,
+					"min": -1.8e2,
+					"max": 1.8e2
+				},
+				"tilt": {
+					"initial": 0,
+					"min": -9e1,
+					"max": 9e1
+				},
+				"fov": {
+					"initial": 9e1,
+					"min": 1e1,
+					"max": 1.2e2
+				},
+				"autolimits": true
+			},
+			"outputcrop": [0,0,1,1]
+		},
+		"optimizer": {
+			"hvcpmode": "twopass",
+			"linkpitch": false,
+			"linkroll": false,
+			"simplemode": true,
+			"simplemodesettings": {
+				"optimizefov": true,
+				"optimizelens": "heavyplusshift",
+				"anchorimagegroup": 1
+			}
+		},
+		"globallenses": [
+			{
+				"lens": {
+					"params": {
+						"projection": "circularfisheye",
+						"fisheyefactor": -4.12345333333333341e-1,
+						"focallength": 2.50123499250974817e1,
+						"theoreticalfocallength": 1.4e1,
+						"cropcircleradius": 2.07464956237645595e1,
+						"cropcenteroffset": {
+							"longside": 0,
+							"shortside": 0
+						},
+						"a": 1.23278948932091501e-1,
+						"b": -1.6017407638567055e-1,
+						"c": 6.84620431636778909e-2,
+						"sensordiagonal": 4.31279491745199977e1,
+						"mirrored": false
+					},
+					"optimizerflags": {
+						"fov": true,
+						"a": true,
+						"b": true,
+						"c": true,
+						"fisheyefactor": false
+					}
+				},
+				"shift": {
+					"params": {
+						"longside": -9.68494841587111237e-3,
+						"shortside": 1.28420335277023377e-2
+					},
+					"optimizerflags": {
+						"longside": true,
+						"shortside": true
+					}
+				},
+				"shear": {
+					"params": {
+						"hshear": 0,
+						"vshear": 0
+					},
+					"optimizerflags": {
+						"hshear": false,
+						"vshear": false
+					}
+				},
+				"photometric": {
+					"optimizevignetting": "yes",
+					"optimizecameracurve": "auto",
+					"vignettingcoefficients": [],
+					"emorparams": [3.44122800000000018,-5.51974999999999993e-1,2.9442299999999999e-1,-9.56319999999999948e-2,7.21389999999999948e-2]
+				}
+			}
+		],
+		"photometric": {
+			"whitebalance": {
+				"red": 0,
+				"blue": 0
+			},
+			"exposureoffset": 0,
+			"exposurecompensation": false,
+			"optimizeexposure": "auto",
+			"optimizewhitebalance": "no",
+			"optimizeflare": "no"
+		},
+		"imagegroups": [
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 5.58976533564868987e1,
+						"pitch": -3.42997040371756157e-1,
+						"roll": -1.23257528113532544,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": false,
+						"pitch": false,
+						"roll": false,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2566.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 5e2,
+							"filetimestamp": 1679524016,
+							"filesize": 12700879,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 2.83633356121386555e1,
+						"pitch": -3.45441882483271456e-1,
+						"roll": -1.23903735055867514,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2567.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1e3,
+							"filetimestamp": 1679524022,
+							"filesize": 14203239,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 1.55104435811986718,
+						"pitch": -3.32114513769028008e-1,
+						"roll": -1.19236368504692791,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2568.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1.8e3,
+							"filetimestamp": 1679524026,
+							"filesize": 14539310,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -2.5600553761019313e1,
+						"pitch": -3.38525106017442567e-1,
+						"roll": -1.3039111474447509,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2569.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1.6e3,
+							"filetimestamp": 1679524030,
+							"filesize": 14576594,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -5.27634412754090931e1,
+						"pitch": -3.73248035804436995e-1,
+						"roll": -1.40637078788319059,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2570.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1.1e3,
+							"filetimestamp": 1679524034,
+							"filesize": 14163614,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -8.02350429044339677e1,
+						"pitch": -4.47192553834071305e-1,
+						"roll": -1.38867594585954635,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2571.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1e3,
+							"filetimestamp": 1679524038,
+							"filesize": 13976266,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -1.07822878040549327e2,
+						"pitch": -3.09311271231251794e-1,
+						"roll": -6.40761867611956859e-1,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2572.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1e3,
+							"filetimestamp": 1679524040,
+							"filesize": 14794287,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -1.34837329572077095e2,
+						"pitch": -7.41115705924073609e-2,
+						"roll": -7.93504877730242697e-1,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2573.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 5e2,
+							"filetimestamp": 1679524044,
+							"filesize": 13479168,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": -1.64180663286067329e2,
+						"pitch": 3.49137059200614885e-1,
+						"roll": -3.82093259641663963e-1,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2574.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 7.2e2,
+							"filetimestamp": 1679524048,
+							"filesize": 14593488,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 1.37697017511304921e2,
+						"pitch": -5.72902178937482631e-1,
+						"roll": -9.94444352962744915e-1,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2575.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 8e2,
+							"filetimestamp": 1679524052,
+							"filesize": 13857669,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 1.10426613136874607e2,
+						"pitch": -4.77428170789636397e-1,
+						"roll": -1.05686944579503006,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2576.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1.1e3,
+							"filetimestamp": 1679524056,
+							"filesize": 14345143,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"size": [3600,5408],
+				"individuallens": null,
+				"individualshift": null,
+				"individualshear": null,
+				"individualcropcenter": null,
+				"position": {
+					"params": {
+						"yaw": 8.27537244926276117e1,
+						"pitch": -3.8266340378811492e-1,
+						"roll": -1.0389341272814363,
+						"vpx": 0,
+						"vpy": 0,
+						"vpd": 0,
+						"vppan": 0,
+						"vptilt": 0
+					},
+					"optimizerflags": {
+						"yaw": true,
+						"pitch": true,
+						"roll": true,
+						"vp": "reset"
+					}
+				},
+				"globallens": 0,
+				"viewrotate": "auto",
+				"blendweight": 1e2,
+				"maskbitmap": null,
+				"images": [
+					{
+						"filename": "DSC_2577.JPG",
+						"metadata": {
+							"aperture": 4.5,
+							"exposuretime": 4.00000000000000008e-2,
+							"iso": 1e3,
+							"filetimestamp": 1679524058,
+							"filesize": 14243467,
+							"wbmode": "auto",
+							"exposurebias": -6.6666666666666663e-1,
+							"pixelformat": {
+								"datatype": "u8",
+								"channels": 3
+							},
+							"iccprofile": null
+						},
+						"usecontrolpoints": true,
+						"include": true,
+						"includeinpreview": true,
+						"useforphotometric": true,
+						"photometric": {
+							"flare": 0,
+							"exposureoffset": 0,
+							"wb": {
+								"red": 0,
+								"blue": 0
+							}
+						}
+					}
+				]
+			}
+		],
+		"controlpoints": [
+			{"t":0,"0":[3,0,889,4517],"1":[4,0,2492,4538]},
+			{"t":0,"0":[3,0,665,4493],"1":[4,0,2272,4497]},
+			{"t":0,"0":[3,0,1283,4402],"1":[4,0,2900,4456]},
+			{"t":0,"0":[3,0,1605,2839],"1":[4,0,3344,2883]},
+			{"t":0,"0":[3,0,402,1524],"1":[4,0,2098,1592]},
+			{"t":0,"0":[3,0,566,2924],"1":[4,0,2289,2957]},
+			{"t":0,"0":[3,0,1329,3041],"1":[4,0,3060,3086]},
+			{"t":0,"0":[3,0,887,3731],"1":[4,0,2585,3763]},
+			{"t":0,"0":[3,0,806,2649],"1":[4,0,2542,2687]},
+			{"t":0,"0":[3,0,1240,1780],"1":[4,0,2960,1810]},
+			{"t":0,"0":[3,0,1158,3813],"1":[4,0,2849,3858]},
+			{"t":0,"0":[3,0,222,3291],"1":[4,0,1936,3305]},
+			{"t":0,"0":[3,0,1202,3564],"1":[4,0,2921,3616]},
+			{"t":0,"0":[3,0,561,2693],"1":[4,0,2294,2730]},
+			{"t":0,"0":[3,0,760,2921],"1":[4,0,2492,2957]},
+			{"t":0,"0":[3,0,1310,2794],"1":[4,0,3049,2835]},
+			{"t":0,"0":[3,0,687,2061],"1":[4,0,2411,2107]},
+			{"t":0,"0":[3,0,1417,2232],"1":[4,0,3147,2262]},
+			{"t":0,"0":[3,0,1019,823],"1":[4,0,2618,868]},
+			{"t":0,"0":[3,0,65,2728],"1":[4,0,1788,2761]},
+			{"t":0,"0":[3,0,1483,3845],"1":[4,0,3165,3907]},
+			{"t":0,"0":[3,0,903,2276],"1":[4,0,2632,2316]},
+			{"t":0,"0":[3,0,371,2543],"1":[4,0,2099,2583]},
+			{"t":0,"0":[0,0,1483,2039],"1":[1,0,3229,2064]},
+			{"t":0,"0":[0,0,1634,2035],"1":[1,0,3377,2055]},
+			{"t":0,"0":[0,0,1133,2058],"1":[1,0,2881,2093]},
+			{"t":0,"0":[0,0,1001,2092],"1":[1,0,2748,2130]},
+			{"t":0,"0":[0,0,1760,2107],"1":[1,0,3505,2126]},
+			{"t":0,"0":[0,0,973,3412],"1":[1,0,2714,3449]},
+			{"t":0,"0":[0,0,1218,2486],"1":[1,0,2977,2524]},
+			{"t":0,"0":[0,0,806,2046],"1":[1,0,2551,2089]},
+			{"t":0,"0":[0,0,1535,2769],"1":[1,0,3295,2810]},
+			{"t":0,"0":[0,0,840,2770],"1":[1,0,2612,2808]},
+			{"t":0,"0":[0,0,1306,2101],"1":[1,0,3056,2132]},
+			{"t":0,"0":[0,0,878,3201],"1":[1,0,2635,3236]},
+			{"t":0,"0":[0,0,989,1874],"1":[1,0,2725,1913]},
+			{"t":0,"0":[0,0,551,2237],"1":[1,0,2305,2282]},
+			{"t":0,"0":[0,0,898,2960],"1":[1,0,2667,2997]},
+			{"t":0,"0":[9,0,577,2617],"1":[10,0,2328,2654]},
+			{"t":0,"0":[9,0,210,3428],"1":[10,0,1925,3437]},
+			{"t":0,"0":[9,0,603,2847],"1":[10,0,2352,2880]},
+			{"t":0,"0":[9,0,308,1083],"1":[10,0,1937,1172]},
+			{"t":0,"0":[9,0,1240,1083],"1":[10,0,2870,1107]},
+			{"t":0,"0":[9,0,1596,552],"1":[10,0,3129,547]},
+			{"t":0,"0":[9,0,292,4122],"1":[10,0,1944,4111]},
+			{"t":0,"0":[9,0,600,2630],"1":[10,0,2351,2667]},
+			{"t":0,"0":[9,0,1224,1090],"1":[10,0,2856,1115]},
+			{"t":0,"0":[4,0,250,2668],"1":[5,0,2004,2707]},
+			{"t":0,"0":[4,0,542,2651],"1":[5,0,2304,2689]},
+			{"t":0,"0":[4,0,404,2549],"1":[5,0,2160,2590]},
+			{"t":0,"0":[4,0,303,3102],"1":[5,0,2056,3124]},
+			{"t":0,"0":[4,0,951,2483],"1":[5,0,2715,2524]},
+			{"t":0,"0":[4,0,450,2926],"1":[5,0,2206,2959]},
+			{"t":0,"0":[4,0,387,2757],"1":[5,0,2144,2793]},
+			{"t":0,"0":[4,0,911,3101],"1":[5,0,2670,3137]},
+			{"t":0,"0":[4,0,442,3119],"1":[5,0,2199,3145]},
+			{"t":0,"0":[4,0,111,2536],"1":[5,0,1862,2579]},
+			{"t":0,"0":[4,0,637,2336],"1":[5,0,2395,2379]},
+			{"t":0,"0":[4,0,1788,2761],"1":[5,0,3538,2805]},
+			{"t":0,"0":[4,0,1146,3247],"1":[5,0,2898,3290]},
+			{"t":0,"0":[4,0,95,3352],"1":[5,0,1839,3361]},
+			{"t":0,"0":[4,0,765,3195],"1":[5,0,2519,3228]},
+			{"t":0,"0":[4,0,659,2630],"1":[5,0,2423,2671]},
+			{"t":0,"0":[4,0,490,3333],"1":[5,0,2239,3354]},
+			{"t":0,"0":[4,0,1247,2565],"1":[5,0,3001,2604]},
+			{"t":0,"0":[6,0,489,2489],"1":[7,0,2210,2529]},
+			{"t":0,"0":[6,0,1026,2467],"1":[7,0,2760,2503]},
+			{"t":0,"0":[6,0,1248,2474],"1":[7,0,2984,2509]},
+			{"t":0,"0":[0,0,2744,2711],"1":[11,0,1019,2674]},
+			{"t":0,"0":[0,0,3145,1884],"1":[11,0,1452,1863]},
+			{"t":0,"0":[0,0,3192,3121],"1":[11,0,1476,3074]},
+			{"t":0,"0":[0,0,2193,3138],"1":[11,0,485,3112]},
+			{"t":0,"0":[0,0,2464,1717],"1":[11,0,785,1671]},
+			{"t":0,"0":[0,0,3236,1045],"1":[11,0,1639,1047]},
+			{"t":0,"0":[0,0,2515,3979],"1":[11,0,862,3952]},
+			{"t":0,"0":[0,0,3092,2205],"1":[11,0,1381,2176]},
+			{"t":0,"0":[0,0,2971,3885],"1":[11,0,1309,3833]},
+			{"t":0,"0":[0,0,3097,3727],"1":[11,0,1424,3672]},
+			{"t":0,"0":[0,0,2923,2875],"1":[11,0,1199,2837]},
+			{"t":0,"0":[0,0,2748,2232],"1":[11,0,1035,2196]},
+			{"t":0,"0":[0,0,2322,2900],"1":[11,0,604,2867]},
+			{"t":0,"0":[0,0,2833,1703],"1":[11,0,1151,1672]},
+			{"t":0,"0":[0,0,2004,969],"1":[11,0,421,884]},
+			{"t":0,"0":[0,0,3065,2356],"1":[11,0,1347,2324]},
+			{"t":0,"0":[0,0,2166,3693],"1":[11,0,492,3680]},
+			{"t":0,"0":[0,0,2639,2386],"1":[11,0,921,2348]},
+			{"t":0,"0":[0,0,3000,1726],"1":[11,0,1317,1702]},
+			{"t":0,"0":[0,0,2028,1549],"1":[11,0,371,1480]},
+			{"t":0,"0":[0,0,3360,1300],"1":[11,0,1730,1303]},
+			{"t":0,"0":[0,0,2591,2992],"1":[11,0,872,2956]},
+			{"t":0,"0":[0,0,2617,1734],"1":[11,0,933,1694]},
+			{"t":0,"0":[0,0,2386,2307],"1":[11,0,673,2265]},
+			{"t":0,"0":[0,0,106,1829],"1":[2,0,3518,1907]},
+			{"t":0,"0":[5,0,1492,2130],"1":[6,0,3235,2155]},
+			{"t":0,"0":[5,0,1575,2091],"1":[6,0,3314,2112]},
+			{"t":0,"0":[5,0,1489,2190],"1":[6,0,3236,2216]},
+			{"t":0,"0":[5,0,1498,1839],"1":[6,0,3218,1858]},
+			{"t":0,"0":[5,0,1690,1442],"1":[6,0,3362,1441]},
+			{"t":0,"0":[5,0,1638,1443],"1":[6,0,3310,1445]},
+			{"t":0,"0":[5,0,1475,1732],"1":[6,0,3186,1749]},
+			{"t":0,"0":[5,0,1340,2346],"1":[6,0,3099,2377]},
+			{"t":0,"0":[5,0,1565,1861],"1":[6,0,3286,1878]},
+			{"t":0,"0":[5,0,1508,2022],"1":[6,0,3243,2043]},
+			{"t":0,"0":[3,0,65,2728],"1":[5,0,3538,2805]},
+			{"t":0,"0":[10,0,1365,2829],"1":[11,0,3157,2872]},
+			{"t":0,"0":[10,0,1287,3284],"1":[11,0,3060,3333]},
+			{"t":0,"0":[10,0,1649,1530],"1":[11,0,3347,1537]},
+			{"t":0,"0":[10,0,1267,4165],"1":[11,0,2927,4218]},
+			{"t":0,"0":[10,0,632,2991],"1":[11,0,2393,3023]},
+			{"t":0,"0":[10,0,1108,3288],"1":[11,0,2882,3328]},
+			{"t":0,"0":[10,0,1385,3098],"1":[11,0,3169,3144]},
+			{"t":0,"0":[10,0,380,1043],"1":[11,0,2020,1127]},
+			{"t":0,"0":[10,0,1166,1321],"1":[11,0,2842,1352]},
+			{"t":0,"0":[10,0,1465,1272],"1":[11,0,3131,1285]},
+			{"t":0,"0":[10,0,959,3400],"1":[11,0,2696,3437]},
+			{"t":0,"0":[10,0,1633,4073],"1":[11,0,3296,4149]},
+			{"t":0,"0":[10,0,772,4131],"1":[11,0,2439,4151]},
+			{"t":0,"0":[10,0,1114,3271],"1":[11,0,2889,3311]},
+			{"t":0,"0":[10,0,1093,2897],"1":[11,0,2887,2936]},
+			{"t":0,"0":[10,0,1350,2673],"1":[11,0,3143,2713]},
+			{"t":0,"0":[10,0,1352,1459],"1":[11,0,3049,1480]},
+			{"t":0,"0":[10,0,1186,1412],"1":[11,0,2875,1442]},
+			{"t":0,"0":[1,0,3516,1905],"1":[11,0,113,1828]},
+			{"t":0,"0":[1,0,478,3679],"1":[2,0,2158,3692]},
+			{"t":0,"0":[1,0,1447,2006],"1":[2,0,3143,2031]},
+			{"t":0,"0":[1,0,302,1808],"1":[2,0,1988,1871]},
+			{"t":0,"0":[1,0,1588,2223],"1":[2,0,3294,2249]},
+			{"t":0,"0":[1,0,992,3493],"1":[2,0,2684,3531]},
+			{"t":0,"0":[1,0,1576,2966],"1":[2,0,3288,3013]},
+			{"t":0,"0":[1,0,159,1809],"1":[2,0,1843,1877]},
+			{"t":0,"0":[1,0,511,1995],"1":[2,0,2207,2046]},
+			{"t":0,"0":[1,0,1494,1877],"1":[2,0,3183,1898]},
+			{"t":0,"0":[1,0,875,3433],"1":[2,0,2571,3467]},
+			{"t":0,"0":[1,0,1548,4690],"1":[2,0,3092,4765]},
+			{"t":0,"0":[2,0,1593,3209],"1":[3,0,3308,3263]},
+			{"t":0,"0":[2,0,1009,1766],"1":[3,0,2712,1804]},
+			{"t":0,"0":[2,0,1662,1198],"1":[3,0,3304,1198]},
+			{"t":0,"0":[2,0,278,2022],"1":[3,0,1997,2079]},
+			{"t":0,"0":[2,0,119,2863],"1":[3,0,1855,2892]},
+			{"t":0,"0":[2,0,1659,1280],"1":[3,0,3312,1281]},
+			{"t":0,"0":[2,0,1276,1606],"1":[3,0,2966,1632]},
+			{"t":0,"0":[2,0,456,4049],"1":[3,0,2118,4051]},
+			{"t":0,"0":[2,0,183,4676],"1":[3,0,1748,4633]},
+			{"t":0,"0":[2,0,707,4403],"1":[3,0,2324,4413]},
+			{"t":0,"0":[2,0,109,2475],"1":[3,0,1845,2520]},
+			{"t":0,"0":[2,0,167,2039],"1":[3,0,1885,2098]},
+			{"t":0,"0":[2,0,117,2981],"1":[3,0,1849,3006]},
+			{"t":0,"0":[2,0,114,3401],"1":[3,0,1822,3408]},
+			{"t":0,"0":[2,0,1035,1770],"1":[3,0,2738,1807]},
+			{"t":0,"0":[1,0,159,1809],"1":[3,0,3519,1887]},
+			{"t":1,"0":[7,0,899,1746],"1":[7,0,908,1738]},
+			{"t":0,"0":[7,0,899,1738],"1":[8,0,2724,1787]}
+		]
+	},
+	"assets": []
+}
