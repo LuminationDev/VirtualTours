@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.14" rev="18105">
+<pano2vrconfig rev="18125" version="6.1.16">
   <tour>
     <start>node7</start>
     <panorama>
@@ -578,7 +578,7 @@ VR Headsets are worn over the head and handheld controllers are secured with str
             <applyafterlevelling>0</applyafterlevelling>
             <locked>0</locked>
             <quality>90</quality>
-            <filename>patches/Front Middle Room_Panorama_patch.psd</filename>
+            <filename>patches/Front Middle Room_Panorama_patch_7.psd</filename>
             <type>image</type>
             <blurintensity>10</blurintensity>
             <lastmodified>2023-03-29T16:20:53</lastmodified>
@@ -889,8 +889,10 @@ Setting up the space is quick as the immersive technology is labelled for easy u
         <webvr/>
         <tilesize>2000</tilesize>
         <filename>Output/pano.xml</filename>
-        <skinfile>E:/2023_Lumination/Virtual Tours/Underdale/Skin Elements/VR TOUR_simplex_v6.ggsk</skinfile>
+        <skinfile>C:/Users/mbond/OneDrive/Desktop/Virtual Tours/Underdale/Skin Elements/VR TOUR_simplex_v6.ggsk</skinfile>
         <skinconfiguration>
+          <value id="UA_ID">G-RZD2B4V681</value>
+          <value id="UA_category">Underdale Virtual Tour</value>
           <value id="opt_autorotate">false</value>
           <value id="opt_gyro">false</value>
           <value id="opt_hotspot_preview">false</value>
